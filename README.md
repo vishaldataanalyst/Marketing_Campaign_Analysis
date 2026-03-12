@@ -2,7 +2,7 @@
 End-to-end project analyzing marketing campaigns to optimize conversion rates and ROI. Includes Python data cleaning, SQL exploration, A/B testing, and Power BI dashboards with insights, business impact, and recommendations.
 
 [![GitHub Repo Size](https://img.shields.io/github/repo-size/vishaldataanalyst/Marketing_Campaign_Analysis)](https://github.com/vishaldataanalyst/Marketing_Campaign_Analysis)  
-[![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)](https://www.python.org/)  
+[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)](https://jupyter.org/) 
 [![SQL](https://img.shields.io/badge/SQL-MySQL-green?logo=mysql)](https://www.mysql.com/)  
 [![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-orange?logo=microsoftpowerbi)](https://powerbi.microsoft.com/)
 
